@@ -1,7 +1,7 @@
 # RayTracer-Source
 
 ### The code renders a 3D scene with 2 light sources and 3 transparent spheres within a striped box. 
-
+![image](MyImage.png)
 ### How to run the code:
 1. Use the Makefile to compile
 2. The code takes in the name of input file(without suffix) as a cmdline argument. 
